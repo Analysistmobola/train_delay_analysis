@@ -1,6 +1,6 @@
 Hi, I’m Oyebisi Monsurat
 
-Data Analyst | Excel | SQL | Power BI | Python
+    Data Analyst | Excel | SQL | Power BI | Python
 
 I enjoy transforming raw datasets into meaningful insights that help organizations make informed decisions.
 
